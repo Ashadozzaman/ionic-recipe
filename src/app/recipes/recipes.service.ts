@@ -14,7 +14,7 @@ export class RecipesService {
     },
     
     {
-     id:'r3',
+     id:'r2',
      title:'Recipe Title 2',
      imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsXhfqpp6lkCWeG__jdqgyrpn8trp6KAHmGUxLS6Io9RNi3oGOk9C3DIwyNdmnUBjQctQ&usqp=CAU',
      ingredients:['Tandori','Cap','Salad']
